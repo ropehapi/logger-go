@@ -1,0 +1,2 @@
+{"level":"info","time":"2024-03-21T09:59:17.842-0300","message":"Your message here","key":"value"}
+{"level":"error","time":"2024-03-21T09:59:17.883-0300","message":"Your error here","key":"value","error":"Your error here"}
